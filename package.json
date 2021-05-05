@@ -23,6 +23,7 @@
   "dependencies": {
     "bcrypt": "^5.0.1",
     "moment": "^2.29.1",
+    "puppeteer": "^9.1.1",
     "sharp": "^0.28.1"
   }
 }
